@@ -1,7 +1,7 @@
 
 *.sketch
 *.fig
-README.md
+README template.md
 *.xd
 style-guide.md
 # Avoid your project being littered with annoying .DS_Store files!
